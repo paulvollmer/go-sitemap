@@ -11,6 +11,7 @@ go:
   - 1.9.7
   - 1.10.4
   - 1.11
+  - 1.12
   - tip
 install:
   - go get -u github.com/golang/lint/golint
